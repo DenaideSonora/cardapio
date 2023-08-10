@@ -1,0 +1,63 @@
+body{
+    text-align: center;
+    border-style: double;
+    border-width: 15px;
+    border-radius: 5px;
+}
+
+
+
+h1, h2{
+    margin: 0px;
+    background-color: rgb(71, 146, 136);
+    color:aliceblue
+}
+
+p{
+    margin: auto;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.container img{
+    padding: 20px;
+}
+
+.foto {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    letter-spacing: 2px;
+}
+
+.foto img {
+    padding: 7px;
+}
+
+
+.espaco {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.espaco h5{
+    padding: 5px;
+}
+
+.linhas {
+   line-height: 0; 
+}
+
+.layout {
+    line-height: 1.5;
+}
+
+.btn {
+   color: rgb(167, 2, 2);   
+}
+
